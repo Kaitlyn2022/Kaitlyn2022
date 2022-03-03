@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Kaitlyn2022
-- 👀 I’m interested in Computer Science and Software Development
+- 👋 Hi, I’m @kaitlyn2022
+- 👀 I’m planning on majoring in Computer Science and Engineering
 - 🌱 I’m currently learning Python, CSS, HTML5, Javascript, Typescript, and SQL
 - 💞️ I’m looking to collaborate on coding projects
 - 📫 How to reach me: KFortuna04@gmail.com
